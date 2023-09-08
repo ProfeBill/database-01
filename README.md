@@ -1,4 +1,4 @@
-# Usando PostgeSQL con Python
+# Usando PostgreSQL con Python
 
 ## Prerrequisitos
 
