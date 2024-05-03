@@ -9,10 +9,10 @@
   
 ## Conexión
 
-Reemplace los datos de conexion con los datos tomados de su servidor
+*IMPORTANTE: ANTES DE EJECUTAR POR PRIMERA VEZ*
 
-    connection = psycopg2.connect(database="#######", user="########", password="########", host="########", port=5432)
-
+Edite SecretConfig.py, Asigne a cada variable el valor correspondiente de la conexion a su base de datos
+y guarde el archivo como SecretConfig.py
 
 ## Para saber más
 
