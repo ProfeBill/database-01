@@ -2,6 +2,7 @@
 
 ## Prerrequisitos
 
+- Debe tener disponible un servidor de PostgreSQL, recuerede qu epuede crear una cuenta gratuita en : https://neon.tech/
 - Tome nota del nombre de los datos de conexión a su base de datos. en neon.tech los encontrará en el Dashboard
 - En su proyecto, instale el paquete psycho2 con el siguiente comando:  
 
